@@ -52,7 +52,7 @@ Pour chaque scénario :
 
 ---
 
-### 📄 Documentation (PDF)
+### Documentation (PDF)
 Une documentation expliquant :
 - La démarche globale
 - Les choix techniques effectués
