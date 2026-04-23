@@ -34,7 +34,7 @@ L’objectif principal est de **monter en compétence sur Microsoft Purview** à
 
 ## Contenu du projet
 
-### 📊 Analyse des risques (Excel)
+### Analyse des risques (Excel)
 Un fichier Excel contenant **13 scénarios de risques de fuite de données**, par exemple :
 - Téléchargement de fichiers sensibles
 - Partage non autorisé (interne / externe)
@@ -81,7 +81,7 @@ Le projet est abordé avec une **logique SOC**, incluant :
 ---
 
 ## État du projet
-🚧 **Projet en cours**
+**Projet en cours**
 
 Ce projet correspond à un **état d’avancement** de mon stage.  
 Il est amené à évoluer avec :
